@@ -1,0 +1,10 @@
+{
+    "Aio": {
+        "Debug": true
+    },
+
+    "Generator": {
+        "captcha_key": "",
+        "Use Proxies": false
+    }
+}
