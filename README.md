@@ -16,7 +16,7 @@ Roblox Account/Cookie Creator
 
  ## 🥅 ・Goals
 ```
-・ 25 stars for Cookie Creator ❌
+・ 25 stars for Cookie Creator ✅
 
 ・ 30 stars for friend feature ❌
 
