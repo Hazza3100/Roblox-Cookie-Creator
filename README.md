@@ -25,8 +25,6 @@ Roblox Account/Cookie Creator
 ・ 40 stars for follow feature ❌
 
 ・ 45 stars for report feature ❌
-
-・ 20 Stars I will add a like bot ❌
 ```
 
 ## ・Skids
