@@ -63,3 +63,7 @@ v1 ⋮ 19/11/22
 ```
 For custom work contact !Hazza#0001
 ```
+
+
+Please note
+**This script was made for educational purposes, I am not responsible for your actions using this script. This script was made for educational purposes.**
