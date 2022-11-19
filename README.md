@@ -5,7 +5,7 @@ Roblox Account/Cookie Creator
 
 
 # ・How to use
-・Put proxies in proxies.txt: https://www.webshare.io/?referral_code=27rjvonmaef4
+・If you want to use proxies I reccomend [webshare](https://www.webshare.io/?referral_code=27rjvonmaef4)
 
 ・Captcha key for config: [Get api key](https://dashboard.capsolver.com/passport/register?inviteCode=rwXDPRNK)
 
