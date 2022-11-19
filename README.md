@@ -3,23 +3,16 @@ Roblox Account/Cookie Creator
 
 ![Screenshot](img.png)
 
+# ・About
+
+・ Basic Cookie Creator
+
+
 
 # ・How to use
 ・If you want to use proxies I reccomend [webshare](https://www.webshare.io/?referral_code=27rjvonmaef4)
 
 ・Captcha key for config: [Get api key](https://dashboard.capsolver.com/passport/register?inviteCode=rwXDPRNK)
-
-# ・About
-
-・Leave all Suggestions in a pull request or issue
-
-・It takes 2 seconds to star, longer to maintain :)
-
-## Generator Features
-```
-・Account Generator
-
-```
 
  ## 🥅 ・Goals
 ```
