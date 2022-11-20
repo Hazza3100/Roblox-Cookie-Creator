@@ -18,7 +18,7 @@ Roblox Account/Cookie Creator
 ```
 ・ 25 stars for Cookie Creator ✅
 
-・ 30 stars for friend feature ❌
+・ 30 stars for friend feature ✅
 
 ・ 35 stars for message feature ❌
 
