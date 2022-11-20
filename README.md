@@ -54,6 +54,10 @@ This project is licensed under the GPL General Public License v3.0 License - see
 ```diff
 v1 ⋮ 19/11/22
 + Pre-Release
+v1.1 ⋮ 19/11/22
++ Cookie Gen
+v1.2 ⋮ 20/11/22
++ Friend User
 ```
 
 
