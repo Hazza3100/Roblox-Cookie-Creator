@@ -190,7 +190,7 @@ class aio:
             response = self.session.post(f'https://friends.roblox.com/v1/users/{userId}/request-friendship', headers=headers)
             try:
                 if response.json()['success'] == True:
-                    print(f"{Fore.BLUE}[ {Fore.GREEN}+ {Fore.BLUE}]{Fore.RESET} Successfully Followed")
+                    print(f"{Fore.BLUE}[ {Fore.GREEN}+ {Fore.BLUE}]{Fore.RESET} Request Sent")
             except:
                 pass
             try:
