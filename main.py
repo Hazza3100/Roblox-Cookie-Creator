@@ -20,7 +20,6 @@ with open('data/config.json') as f:
 
 
 
-
 class captchaio:
     def __init__(self, ) -> None:
         pass
