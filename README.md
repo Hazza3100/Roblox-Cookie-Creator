@@ -12,7 +12,7 @@ Roblox Account/Cookie Creator
 # ・How to use
 ・If you want to use proxies I reccomend [webshare](https://www.webshare.io/?referral_code=27rjvonmaef4)
 
-・Captcha key for config: [Get api key](https://dashboard.capsolver.com/passport/register?inviteCode=rwXDPRNK)
+・Captcha key for config: (Removed By Request)
 
  ## 🥅 ・Goals
 ```
@@ -63,7 +63,7 @@ v1.2 ⋮ 20/11/22
 
 ## Custom work
 ```
-For custom work contact !Hazza#0001
+For custom work contact hazza.com on discord
 ```
 
 
