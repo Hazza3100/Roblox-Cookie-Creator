@@ -20,7 +20,10 @@ with open('data/config.json') as f:
 
 
 
-class captchaio:
+
+# Captcha solving removed by request
+
+class captcha:
     def __init__(self, ) -> None:
         pass
         self.session = requests.Session()
@@ -41,7 +44,7 @@ class captchaio:
                         "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
                     }
             }
-            r = self.session.post('https://api.captchaai.io/createTask', json=json, headers=headers)
+            r = self.session.post('', json=json, headers=headers)
             return r.json()['taskId']
         except:
             pass
@@ -51,10 +54,10 @@ class captchaio:
             'clientKey': self.api_key,
             'taskId'   : captchaio().createTask(blob)
             }
-        headers = {'Host': 'api.captchaai.io','Content-Type': 'application/json'}
+        headers = {'Host': '','Content-Type': 'application/json'}
         while True:
             time.sleep(1)
-            r = self.session.post('https://api.captchaai.io/getTaskResult', json=json, headers=headers)
+            r = self.session.post('', json=json, headers=headers)
             if r.json()['status'] == "ready":
                 return r.json()['solution']['token']
 
