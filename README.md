@@ -1,6 +1,8 @@
 # Roblox Cookie Creator
 Roblox Account/Cookie Creator
 
+# Achieved due to captcha service request of removal.
+
 ![Screenshot](img.png)
 
 # ・About
